@@ -1,7 +1,5 @@
 package com.carara.customer;
 
-import com.carara.customer.CustomerRegistrationRequest;
-import com.carara.customer.CustomerService;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.PostMapping;
